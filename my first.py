@@ -1,2 +1,0 @@
-print("nandhu")
-print("edited")
